@@ -1,0 +1,26 @@
+{
+  "name": "react-native-keyboard-topview",
+  "version": "0.0.1",
+  "description": "react-native keyboard top view, custom container content(ios,android,android 需要删除 android 目录下 'app'内'src'目录中AndroidManifest.xml文件内的android:windowSoftInputMode 项)",
+  "main": "keyboardTopView.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJELLYS/react-native-keyboard-topview"
+  },
+  "keywords": [
+    "keyboard",
+    "animated",
+    "react-native-keyboard",
+    "react-native-keyboard-topview",
+    "react-native"
+  ],
+  "author": "Jelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CJELLYS/react-native-keyboard-topview/issues"
+  },
+  "homepage": "https://github.com/CJELLYS/react-native-keyboard-topview#readme"
+}
